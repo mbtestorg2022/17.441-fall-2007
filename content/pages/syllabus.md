@@ -34,12 +34,57 @@ Other than assignments from the required texts, the instructor provides all read
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class discussion of readings | 30% |
-| Midterm exam | 30% |
-| Written requirement: final or research paper | 30% |
-| Web-based assignment | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class discussion of readings
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written requirement: final or research paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Web-based assignment
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Written Requirement
 -------------------
@@ -63,19 +108,180 @@ Everyone is expected to take the mid-term exam. It is intended to allow the inst
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part I. The context**{{< /td-colspan >}} |||
-| 1 | Introduction: systems and complexities |   {{< br >}} |
-| 2 | The legacies of the 20th century |   {{< br >}} |
-| 3 | International politics of climate change |   {{< br >}} |
-| 4 | International relations theory |   {{< br >}} |
-| {{< td-colspan 3 >}}**Part II. The global system**{{< /td-colspan >}} |||
-| 5 | The global system – whole and parts |   {{< br >}} |
-| 6 | Climate change science – core elements |   {{< br >}} |
-| 7 | Climate – political connections I – illustrative systems | Midterm exam due 8 days after Ses #7 |
-| 8 | Climate – political connections II – theoretical perspectives |   {{< br >}} |
-| 9 | International law and environmental regimes |   {{< br >}} |
-| {{< td-colspan 3 >}}**Part III. International politics of response**{{< /td-colspan >}} |||
-| 10 | Global accord – comparative cases I and II |   {{< br >}} |
-| 11 | What next: highlights and conclusion | Web-based assignment due and final exam due 4 days after Ses #11
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I. The context**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: systems and complexities
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The legacies of the 20th century
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+International politics of climate change
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+International relations theory
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II. The global system**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The global system – whole and parts
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Climate change science – core elements
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Climate – political connections I – illustrative systems
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam due 8 days after Ses #7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Climate – political connections II – theoretical perspectives
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+International law and environmental regimes
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part III. International politics of response**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Global accord – comparative cases I and II
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+What next: highlights and conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+Web-based assignment due and final exam due 4 days after Ses #11
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -7,6 +7,7 @@ description: Final take-home exam. There are 2 questions - one required (on evol
   Framework Convention on Climate Change).
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-441-international-politics-and-climate-change-fall-2007/8c2e3cd362f53a263be792096b9b610b_final_f2007.pdf
 file_type: application/pdf
+parent_uid: f16c1949-21fa-ae8e-1005-0d383b50fcf3
 resourcetype: Document
 title: "Final Exam \u2013 Take Home"
 uid: 8c2e3cd3-62f5-3a26-3be7-92096b9b610b
